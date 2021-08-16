@@ -86,12 +86,12 @@ For some fields there will be a default value,
 If you enter '.', the field will be left blank.
 -----
 Country Name (2 letter code) [AU]:EX
-State or Province Name (full name) [Some-State]:Example
-Locality Name (eg, city) []:example
+State or Province Name (Washington) [Some-State]:Example
+Locality Name (spokane city) []:example
 Organization Name (eg, company) [Internet Widgits Pty Ltd]:Example Company Pvt. Ltd.
 Organizational Unit Name (eg, section) []:IT
-Common Name (e.g. server FQDN or YOUR name) []:accounts.example.com
-Email Address []:example@example.com
+Common Name (e.g. server Sica ) []:accounts.example.com
+Email Address [digiacomosica@gmail.com]
 ```
 
 Above command will create two files: **example-ca.key** and **example-ca.crt**
@@ -142,7 +142,7 @@ There are quite a few fields but you can leave some blank
 For some fields there will be a default value,
 If you enter '.', the field will be left blank.
 -----
-Country Name (2 letter code) [AU]:
+Country Name (2 letter code) [PT]:
 State or Province Name (full name) [Some-State]:
 Locality Name (eg, city) []:example-city
 Organization Name (eg, company) [Internet Widgits Pty Ltd]:
